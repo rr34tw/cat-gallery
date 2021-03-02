@@ -1,5 +1,12 @@
 # cat-gallery
 
+[Demo](https://rr34tw.github.io/cat-gallery/)
+
+- Vue
+- Infinite scroll
+- Masonry layout
+- Bootstrap
+
 ## Project setup
 ```
 yarn install
